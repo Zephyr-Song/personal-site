@@ -1,0 +1,939 @@
+{
+  "playlist_id": 2829883282,
+  "songs": [
+    {
+      "name": "河流",
+      "mainTitle": null,
+      "additionalTitle": null,
+      "id": 1984760613,
+      "pst": 0,
+      "t": 0,
+      "ar": [
+        {
+          "id": 13699781,
+          "name": "马赫mood",
+          "tns": [],
+          "alias": []
+        },
+        {
+          "id": 13524040,
+          "name": "杜逸风 Firewind SoKu",
+          "tns": [],
+          "alias": []
+        }
+      ],
+      "alia": [],
+      "pop": 90.0,
+      "st": 0,
+      "rt": "",
+      "fee": 8,
+      "v": 41,
+      "crbt": null,
+      "cf": "",
+      "al": {
+        "id": 152281827,
+        "name": "糟糕的日子里",
+        "picUrl": "http://p1.music.126.net/5ErjBLJU9mWMwHNBQy1m-Q==/109951167911889678.jpg",
+        "tns": [],
+        "pic_str": "109951167911889678",
+        "pic": 109951167911889678
+      },
+      "dt": 180253,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7212974,
+        "vd": 48270.0
+      },
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4327802,
+        "vd": 50896.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2885216,
+        "vd": 52660.0
+      },
+      "sq": {
+        "br": 1379745,
+        "fid": 0,
+        "size": 31087956,
+        "vd": 48271.0
+      },
+      "hr": null,
+      "a": null,
+      "cd": "01",
+      "no": 18,
+      "rtUrl": null,
+      "ftype": 0,
+      "rtUrls": [],
+      "djId": 0,
+      "copyright": 1,
+      "s_id": 0,
+      "mark": 17179877376,
+      "originCoverType": 0,
+      "originSongSimpleData": null,
+      "tagPicList": null,
+      "resourceState": true,
+      "version": 7,
+      "songJumpInfo": null,
+      "entertainmentTags": null,
+      "awardTags": null,
+      "displayTags": null,
+      "single": 0,
+      "noCopyrightRcmd": null,
+      "alg": "failover",
+      "displayReason": "",
+      "pubDJProgramData": null,
+      "rtype": 0,
+      "rurl": null,
+      "mst": 9,
+      "cp": 22036,
+      "mv": 0,
+      "publishTime": 1664726400000
+    },
+    {
+      "name": "冷冷的夏",
+      "mainTitle": null,
+      "additionalTitle": null,
+      "id": 301422,
+      "pst": 0,
+      "t": 0,
+      "ar": [
+        {
+          "id": 9646,
+          "name": "王芷蕾",
+          "tns": [],
+          "alias": []
+        }
+      ],
+      "alia": [],
+      "pop": 95.0,
+      "st": 0,
+      "rt": "",
+      "fee": 0,
+      "v": 42,
+      "crbt": null,
+      "cf": "",
+      "al": {
+        "id": 29862,
+        "name": "盛开",
+        "picUrl": "http://p1.music.126.net/EYix8CdqZOviMZ_Euqau9w==/109951165646254921.jpg",
+        "tns": [],
+        "pic_str": "109951165646254921",
+        "pic": 109951165646254921
+      },
+      "dt": 274468,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10981921,
+        "vd": 9777.0
+      },
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6589170,
+        "vd": 12401.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4392795,
+        "vd": 14154.0
+      },
+      "sq": {
+        "br": 763088,
+        "fid": 0,
+        "size": 26180478,
+        "vd": 9576.0
+      },
+      "hr": null,
+      "a": null,
+      "cd": "1",
+      "no": 2,
+      "rtUrl": null,
+      "ftype": 0,
+      "rtUrls": [],
+      "djId": 0,
+      "copyright": 0,
+      "s_id": 0,
+      "mark": 0,
+      "originCoverType": 1,
+      "originSongSimpleData": null,
+      "tagPicList": null,
+      "resourceState": true,
+      "version": 8,
+      "songJumpInfo": null,
+      "entertainmentTags": null,
+      "awardTags": null,
+      "displayTags": null,
+      "single": 0,
+      "noCopyrightRcmd": null,
+      "alg": "failover",
+      "displayReason": "",
+      "pubDJProgramData": null,
+      "rtype": 0,
+      "rurl": null,
+      "mst": 9,
+      "cp": 5003,
+      "mv": 0,
+      "publishTime": 986054400000
+    },
+    {
+      "name": "旅行家的忠诚",
+      "mainTitle": null,
+      "additionalTitle": null,
+      "id": 2079429439,
+      "pst": 0,
+      "t": 0,
+      "ar": [
+        {
+          "id": 12065096,
+          "name": "黄旭",
+          "tns": [],
+          "alias": []
+        },
+        {
+          "id": 1203045,
+          "name": "艾热 AIR",
+          "tns": [],
+          "alias": []
+        }
+      ],
+      "alia": [],
+      "pop": 100.0,
+      "st": 0,
+      "rt": "",
+      "fee": 8,
+      "v": 53,
+      "crbt": null,
+      "cf": "",
+      "al": {
+        "id": 174014353,
+        "name": "未知百分比",
+        "picUrl": "http://p1.music.126.net/SCmkhEuQrtuNfhMI4yd2zw==/109951172952616050.jpg",
+        "tns": [],
+        "pic_str": "109951172952616050",
+        "pic": 109951172952616050
+      },
+      "dt": 231789,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9274558,
+        "vd": -36681.0
+      },
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5564752,
+        "vd": -34131.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3709849,
+        "vd": -32518.0
+      },
+      "sq": {
+        "br": 862681,
+        "fid": 0,
+        "size": 24995070,
+        "vd": -37003.0
+      },
+      "hr": null,
+      "a": null,
+      "cd": "01",
+      "no": 9,
+      "rtUrl": null,
+      "ftype": 0,
+      "rtUrls": [],
+      "djId": 0,
+      "copyright": 1,
+      "s_id": 0,
+      "mark": 17179877376,
+      "originCoverType": 0,
+      "originSongSimpleData": null,
+      "tagPicList": null,
+      "resourceState": true,
+      "version": 19,
+      "songJumpInfo": null,
+      "entertainmentTags": null,
+      "awardTags": null,
+      "displayTags": null,
+      "single": 0,
+      "noCopyrightRcmd": null,
+      "alg": "failover",
+      "displayReason": "",
+      "pubDJProgramData": null,
+      "rtype": 0,
+      "rurl": null,
+      "mst": 9,
+      "cp": 7003,
+      "mv": 14661730,
+      "publishTime": 1694620800000
+    },
+    {
+      "name": "外面冷 Coldest Night",
+      "mainTitle": null,
+      "additionalTitle": null,
+      "id": 1982964017,
+      "pst": 0,
+      "t": 0,
+      "ar": [
+        {
+          "id": 12127564,
+          "name": "艾福杰尼",
+          "tns": [],
+          "alias": []
+        }
+      ],
+      "alia": [],
+      "pop": 95.0,
+      "st": 0,
+      "rt": "",
+      "fee": 8,
+      "v": 41,
+      "crbt": null,
+      "cf": "",
+      "al": {
+        "id": 151899275,
+        "name": "福气庙",
+        "picUrl": "http://p1.music.126.net/Ys5vNDeYfrZpRXInlh3t5g==/109951167893726311.jpg",
+        "tns": [],
+        "pic_str": "109951167893726311",
+        "pic": 109951167893726311
+      },
+      "dt": 222805,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8914605,
+        "vd": -49677.0
+      },
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5348781,
+        "vd": -47101.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3565869,
+        "vd": -45501.0
+      },
+      "sq": {
+        "br": 894305,
+        "fid": 0,
+        "size": 24907009,
+        "vd": -49664.0
+      },
+      "hr": {
+        "br": 1656418,
+        "fid": 0,
+        "size": 46132369,
+        "vd": -49664.0
+      },
+      "a": null,
+      "cd": "01",
+      "no": 10,
+      "rtUrl": null,
+      "ftype": 0,
+      "rtUrls": [],
+      "djId": 0,
+      "copyright": 0,
+      "s_id": 0,
+      "mark": 17716748288,
+      "originCoverType": 1,
+      "originSongSimpleData": null,
+      "tagPicList": null,
+      "resourceState": true,
+      "version": 7,
+      "songJumpInfo": null,
+      "entertainmentTags": null,
+      "awardTags": null,
+      "displayTags": null,
+      "single": 0,
+      "noCopyrightRcmd": null,
+      "alg": "failover",
+      "displayReason": "",
+      "pubDJProgramData": null,
+      "rtype": 0,
+      "rurl": null,
+      "mst": 9,
+      "cp": 0,
+      "mv": 14593063,
+      "publishTime": 0
+    },
+    {
+      "name": "空山灵雨 feat.旅行团",
+      "mainTitle": null,
+      "additionalTitle": null,
+      "id": 2712645752,
+      "pst": 0,
+      "t": 0,
+      "ar": [
+        {
+          "id": 13282,
+          "name": "新裤子",
+          "tns": [],
+          "alias": []
+        },
+        {
+          "id": 12111,
+          "name": "旅行团乐队",
+          "tns": [],
+          "alias": []
+        }
+      ],
+      "alia": [],
+      "pop": 95.0,
+      "st": 0,
+      "rt": "",
+      "fee": 8,
+      "v": 43,
+      "crbt": null,
+      "cf": "",
+      "al": {
+        "id": 288782371,
+        "name": "自恋是骄傲",
+        "picUrl": "http://p1.music.126.net/arfLbEKWiZlHnSkC-FQacw==/109951172161804297.jpg",
+        "tns": [],
+        "pic_str": "109951172161804297",
+        "pic": 109951172161804297
+      },
+      "dt": 192000,
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 7681965,
+        "vd": -63173.0
+      },
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4609197,
+        "vd": -60567.0
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3072813,
+        "vd": -58911.0
+      },
+      "sq": {
+        "br": 1045520,
+        "fid": 0,
+        "size": 25096026,
+        "vd": -63179.0
+      },
+      "hr": {
+        "br": 1815765,
+        "fid": 0,
+        "size": 43581914,
+        "vd": -63179.0
+      },
+      "a": null,
+      "cd": "01",
+      "no": 7,
+      "rtUrl": null,
+      "ftype": 0,
+      "rtUrls": [],
+      "djId": 0,
+      "copyright": 0,
+      "s_id": 0,
+      "mark": 17716748288,
+      "originCoverType": 1,
+      "originSongSimpleData": null,
+      "tagPicList": null,
+      "resourceState": true,
+      "version": 9,
+      "songJumpInfo": null,
+      "entertainmentTags": null,
+      "awardTags": null,
+      "displayTags": null,
+      "single": 0,
+      "noCopyrightRcmd": null,
+      "alg": "failover",
+      "displayReason": "",
+      "pubDJProgramData": null,
+      "rtype": 0,
+      "rurl": null,
+      "mst": 9,
+      "cp": 2710716,
+      "mv": 0,
+      "publishTime": 0
+    },
+    {
+      "name": "雨后的哲学家",
+      "mainTitle": null,
+      "additionalTitle": null,
+      "id": 2649850191,
+      "pst": 0,
+      "t": 0,
+      "ar": [
+        {
+          "id": 12386935,
+          "name": "ZaZaZsu咂咂苏",
+          "tns": [],
+          "alias": []
+        }
+      ],
+      "alia": [],
+      "pop": 100.0,
+      "st": 0,
+      "rt": "",
+      "fee": 8,
+      "v": 43,
+      "crbt": null,
+      "cf": "",
+      "al": {
+        "id": 256455066,
+        "name": "第一千夜",
+        "picUrl": "http://p1.music.126.net/mcywVZFTWOiB92rH5fM8LA==/109951170242389679.jpg",
+        "tns": [],
+        "pic_str": "109951170242389679",
+        "pic": 109951170242389679
+      },
+      "dt": 272343,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10896045,
+        "vd": -51458.0
+      },
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6537645,
+        "vd": -48859.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4358445,
+        "vd": -47130.0
+      },
+      "sq": {
+        "br": 1015111,
+        "fid": 0,
+        "size": 34557397,
+        "vd": -51539.0
+      },
+      "hr": {
+        "br": 1785374,
+        "fid": 0,
+        "size": 60779445,
+        "vd": -51451.0
+      },
+      "a": null,
+      "cd": "01",
+      "no": 11,
+      "rtUrl": null,
+      "ftype": 0,
+      "rtUrls": [],
+      "djId": 0,
+      "copyright": 0,
+      "s_id": 0,
+      "mark": 17716748288,
+      "originCoverType": 0,
+      "originSongSimpleData": null,
+      "tagPicList": null,
+      "resourceState": true,
+      "version": 9,
+      "songJumpInfo": null,
+      "entertainmentTags": null,
+      "awardTags": null,
+      "displayTags": null,
+      "single": 0,
+      "noCopyrightRcmd": null,
+      "alg": "failover",
+      "displayReason": "",
+      "pubDJProgramData": null,
+      "rtype": 0,
+      "rurl": null,
+      "mst": 9,
+      "cp": 1418176,
+      "mv": 0,
+      "publishTime": 1732550400000
+    },
+    {
+      "name": "过春天",
+      "mainTitle": null,
+      "additionalTitle": null,
+      "id": 1346093339,
+      "pst": 0,
+      "t": 0,
+      "ar": [
+        {
+          "id": 9489,
+          "name": "谭维维",
+          "tns": [],
+          "alias": []
+        }
+      ],
+      "alia": [
+        "电影《过春天》同名主题曲"
+      ],
+      "pop": 100.0,
+      "st": 0,
+      "rt": null,
+      "fee": 8,
+      "v": 49,
+      "crbt": null,
+      "cf": "",
+      "al": {
+        "id": 75833743,
+        "name": "过春天 电影原声碟",
+        "picUrl": "http://p1.music.126.net/R0zGFUOIUdm0JQK9oS71ZQ==/109951163927210402.jpg",
+        "tns": [],
+        "pic_str": "109951163927210402",
+        "pic": 109951163927210402
+      },
+      "dt": 266997,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10682036,
+        "vd": -64850.0
+      },
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6409239,
+        "vd": -62250.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4272840,
+        "vd": -60575.0
+      },
+      "sq": {
+        "br": 884089,
+        "fid": 0,
+        "size": 29506184,
+        "vd": -64845.0
+      },
+      "hr": null,
+      "a": null,
+      "cd": "1",
+      "no": 1,
+      "rtUrl": null,
+      "ftype": 0,
+      "rtUrls": [],
+      "djId": 0,
+      "copyright": 2,
+      "s_id": 0,
+      "mark": 17179942912,
+      "originCoverType": 1,
+      "originSongSimpleData": null,
+      "tagPicList": null,
+      "resourceState": true,
+      "version": 15,
+      "songJumpInfo": null,
+      "entertainmentTags": null,
+      "awardTags": null,
+      "displayTags": null,
+      "single": 0,
+      "noCopyrightRcmd": null,
+      "alg": "failover",
+      "displayReason": "",
+      "pubDJProgramData": null,
+      "rtype": 0,
+      "rurl": null,
+      "mst": 9,
+      "cp": -1,
+      "mv": 10851781,
+      "publishTime": 1552579200000
+    },
+    {
+      "name": "你我经历的一刻 (原名：百年长河不过是你和我在经历着的一刻)",
+      "mainTitle": "你我经历的一刻 ",
+      "additionalTitle": "(原名：百年长河不过是你和我在经历着的一刻)",
+      "id": 2655065698,
+      "pst": 0,
+      "t": 0,
+      "ar": [
+        {
+          "id": 12386935,
+          "name": "ZaZaZsu咂咂苏",
+          "tns": [],
+          "alias": []
+        }
+      ],
+      "alia": [],
+      "pop": 100.0,
+      "st": 0,
+      "rt": "",
+      "fee": 8,
+      "v": 42,
+      "crbt": null,
+      "cf": "",
+      "al": {
+        "id": 256455066,
+        "name": "第一千夜",
+        "picUrl": "http://p1.music.126.net/mcywVZFTWOiB92rH5fM8LA==/109951170242389679.jpg",
+        "tns": [],
+        "pic_str": "109951170242389679",
+        "pic": 109951170242389679
+      },
+      "dt": 263724,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10551405,
+        "vd": -33258.0
+      },
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6330861,
+        "vd": -30638.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4220589,
+        "vd": -28910.0
+      },
+      "sq": {
+        "br": 855162,
+        "fid": 0,
+        "size": 28190918,
+        "vd": -33538.0
+      },
+      "hr": {
+        "br": 1623973,
+        "fid": 0,
+        "size": 53535185,
+        "vd": -33284.0
+      },
+      "a": null,
+      "cd": "01",
+      "no": 6,
+      "rtUrl": null,
+      "ftype": 0,
+      "rtUrls": [],
+      "djId": 0,
+      "copyright": 0,
+      "s_id": 0,
+      "mark": 536879104,
+      "originCoverType": 0,
+      "originSongSimpleData": null,
+      "tagPicList": null,
+      "resourceState": true,
+      "version": 8,
+      "songJumpInfo": null,
+      "entertainmentTags": null,
+      "awardTags": null,
+      "displayTags": null,
+      "single": 0,
+      "noCopyrightRcmd": null,
+      "alg": "failover",
+      "displayReason": "",
+      "pubDJProgramData": null,
+      "rtype": 0,
+      "rurl": null,
+      "mst": 9,
+      "cp": 1418176,
+      "mv": 0,
+      "publishTime": 1734537600000
+    },
+    {
+      "name": "若把你",
+      "mainTitle": null,
+      "additionalTitle": null,
+      "id": 865632948,
+      "pst": 0,
+      "t": 0,
+      "ar": [
+        {
+          "id": 12499721,
+          "name": "Kirsty刘瑾睿",
+          "tns": [],
+          "alias": []
+        }
+      ],
+      "alia": [],
+      "pop": 100.0,
+      "st": 0,
+      "rt": null,
+      "fee": 8,
+      "v": 64,
+      "crbt": null,
+      "cf": "",
+      "al": {
+        "id": 71783637,
+        "name": "若把你",
+        "picUrl": "http://p1.music.126.net/M877M2-VhWZiLPVFORf9iQ==/109951163401482434.jpg",
+        "tns": [],
+        "pic_str": "109951163401482434",
+        "pic": 109951163401482434
+      },
+      "dt": 189351,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7576599,
+        "vd": -23902.0
+      },
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4545977,
+        "vd": -21266.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3030666,
+        "vd": -19463.0
+      },
+      "sq": {
+        "br": 712823,
+        "fid": 0,
+        "size": 16871814,
+        "vd": -23585.0
+      },
+      "hr": null,
+      "a": null,
+      "cd": "01",
+      "no": 1,
+      "rtUrl": null,
+      "ftype": 0,
+      "rtUrls": [],
+      "djId": 0,
+      "copyright": 0,
+      "s_id": 0,
+      "mark": 17179877440,
+      "originCoverType": 1,
+      "originSongSimpleData": null,
+      "tagPicList": null,
+      "resourceState": true,
+      "version": 30,
+      "songJumpInfo": null,
+      "entertainmentTags": null,
+      "awardTags": null,
+      "displayTags": null,
+      "single": 0,
+      "noCopyrightRcmd": null,
+      "alg": "failover",
+      "displayReason": "",
+      "pubDJProgramData": null,
+      "rtype": 0,
+      "rurl": null,
+      "mst": 9,
+      "cp": 0,
+      "mv": 0,
+      "publishTime": 1531267200000
+    },
+    {
+      "name": "几分",
+      "mainTitle": null,
+      "additionalTitle": null,
+      "id": 2156910268,
+      "pst": 0,
+      "t": 0,
+      "ar": [
+        {
+          "id": 32291677,
+          "name": "雷泷Raylong",
+          "tns": [],
+          "alias": []
+        },
+        {
+          "id": 31062035,
+          "name": "曲甲",
+          "tns": [],
+          "alias": []
+        },
+        {
+          "id": 57998917,
+          "name": "唐康宁",
+          "tns": [],
+          "alias": []
+        }
+      ],
+      "alia": [
+        "我的又多了几分"
+      ],
+      "pop": 85.0,
+      "st": 0,
+      "rt": "",
+      "fee": 8,
+      "v": 42,
+      "crbt": null,
+      "cf": "",
+      "al": {
+        "id": 196257537,
+        "name": "几分",
+        "picUrl": "http://p1.music.126.net/YWKXvgtSxP_M3h4VdBZxtQ==/109951169598064133.jpg",
+        "tns": [],
+        "pic_str": "109951169598064133",
+        "pic": 109951169598064133
+      },
+      "dt": 200000,
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 8002917,
+        "vd": -62923.0
+      },
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4801768,
+        "vd": -60329.0
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3201193,
+        "vd": -58650.0
+      },
+      "sq": {
+        "br": 1648750,
+        "fid": 0,
+        "size": 41218770,
+        "vd": -62990.0
+      },
+      "hr": null,
+      "a": null,
+      "cd": "01",
+      "no": 1,
+      "rtUrl": null,
+      "ftype": 0,
+      "rtUrls": [],
+      "djId": 0,
+      "copyright": 0,
+      "s_id": 0,
+      "mark": 17179877376,
+      "originCoverType": 0,
+      "originSongSimpleData": null,
+      "tagPicList": null,
+      "resourceState": true,
+      "version": 8,
+      "songJumpInfo": null,
+      "entertainmentTags": null,
+      "awardTags": null,
+      "displayTags": null,
+      "single": 0,
+      "noCopyrightRcmd": null,
+      "alg": "failover",
+      "displayReason": "",
+      "pubDJProgramData": null,
+      "rtype": 0,
+      "rurl": null,
+      "mst": 9,
+      "cp": 0,
+      "mv": 0,
+      "publishTime": 0
+    }
+  ]
+}
