@@ -47,7 +47,6 @@ def artist_names(ar):
 
 music_html = "\n".join(
     f'''      <a class="song" href="https://music.163.com/song/{s.get('id')}" target="_blank" rel="noopener">
-        <img class="song-cover" src="{s.get('al', {}).get('picUrl', '').replace('http://','https://')}" alt="{s.get('name','')} cover" loading="lazy">
         <span class="song-name">{s.get('name','')}</span>
         <span class="song-artist">{artist_names(s.get('ar', []))}</span>
         <span class="song-album">{s.get('al', {}).get('name','')}</span>
@@ -233,4 +232,4 @@ out = os.path.join(HERE, "index.html")
 with open(out, "w", encoding="utf-8") as f:
     f.write(HTML)
 print("wrote", out, os.path.getsize(out), "bytes")
-print("reviews:", len(reviews), "songs:", len(songs))
+print("reviews:", len(reviews_data), "songs:", len(songs))
