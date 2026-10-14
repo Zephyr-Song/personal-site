@@ -100,6 +100,23 @@ h3.grp{font-size:13px;text-transform:uppercase;letter-spacing:.12em;color:var(--
 .foot-note{margin:6px 0 0;font-size:12.5px;}
 .foot-note kbd{background:var(--card);border:1px solid var(--line);border-bottom-width:2px;border-radius:5px;padding:0 6px;font-family:var(--sans);}
 
+/* ---------- book reviews (inline, collapsible) ---------- */
+.rev-list{display:flex;flex-direction:column;gap:10px;}
+.rev-item{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;}
+.rev-item>summary{list-style:none;cursor:pointer;padding:13px 16px;display:flex;flex-direction:column;gap:6px;transition:background .15s ease;}
+.rev-item>summary::-webkit-details-marker{display:none;}
+.rev-item>summary:hover{background:#faf8f5;}
+.rev-item[open]>summary{background:#faf8f5;border-bottom:1px solid var(--line);}
+.rev-title{font-weight:650;font-size:15.5px;color:var(--fg);}
+.rev-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap;}
+.rev-date{font-size:12.5px;color:var(--muted);}
+.rev-body{padding:6px 18px 18px;color:#34322e;font-size:15px;line-height:1.75;}
+.rev-body h3{font-size:17px;margin:18px 0 8px;}
+.rev-body h2{font-size:19px;margin:18px 0 8px;}
+.rev-body p{margin:10px 0;}
+.rev-body blockquote{margin:12px 0;padding:4px 14px;border-left:3px solid var(--accent);color:var(--muted);}
+.rev-body a{text-decoration:underline;}
+
 /* ---------- responsive ---------- */
 @media (max-width:640px){
   .nav-links{gap:12px;font-size:13px;}

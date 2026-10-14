@@ -19,25 +19,24 @@ SITE_BASE = "https://zephyr-song.github.io"
 AVATAR = "https://github.com/Zephyr-Song.png"
 
 # ---------------------------------------------------------------------------
-# Book reviews (migrated from the Gmeek site, kept as curated cards linking out)
+# Book reviews — recovered from the original Gmeek site's GitHub Issues (the real
+# content store) and rendered to HTML, so the new site is fully self-contained
+# and no longer depends on the (currently broken) old Gmeek Pages build.
 # ---------------------------------------------------------------------------
-reviews = []
-for k, v in post_list.items():
-    reviews.append({
-        "title": v.get("postTitle", ""),
-        "date": v.get("createdDate", ""),
-        "labels": v.get("labels", []),
-        "url": SITE_BASE + "/" + v.get("postUrl", ""),
-    })
-reviews.sort(key=lambda r: r["date"], reverse=True)
-
-reviews_html = "\n".join(
-    f'''      <a class="rev" href="{r['url']}" target="_blank" rel="noopener">
-        <span class="rev-title">{r['title']}</span>
-        <span class="rev-meta"><span class="rev-date">{r['date']}</span>{''.join(f'<span class="tag">{t}</span>' for t in r['labels'])}</span>
-      </a>'''
-    for r in reviews
-)
+reviews_data = load("reviews_rendered.json")
+rev_rows = []
+for r in reviews_data:
+    tags = "".join('<span class="tag">%s</span>' % t for t in r.get("labels", []))
+    rev_rows.append(
+        '      <details class="rev-item">\n'
+        '        <summary>\n'
+        '          <span class="rev-title">%s</span>\n'
+        '          <span class="rev-meta"><span class="rev-date">%s</span>%s</span>\n'
+        '        </summary>\n'
+        '        <div class="rev-body">%s</div>\n'
+        '      </details>' % (r.get("title", ""), r.get("date", ""), tags, r.get("html", ""))
+    )
+reviews_html = "\n".join(rev_rows)
 
 # ---------------------------------------------------------------------------
 # Music (migrated from the NetEase playlist)
@@ -172,8 +171,8 @@ REVIEWS = f"""
     <section class="section" id="reviews">
       <div class="sec-num">05</div>
       <h2>Book Reviews <span class="cn">书评</span></h2>
-      <p class="sec-note">A reading log &mdash; migrated from my earlier blog. Titles link to the original posts.</p>
-      <div class="rev-grid">
+      <p class="sec-note">A reading log &mdash; {len(reviews_data)} pieces recovered from the original blog&rsquo;s GitHub Issues and kept here, fully self-contained.</p>
+      <div class="rev-list">
 {reviews_html}
       </div>
     </section>"""
